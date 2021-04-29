@@ -1,0 +1,12 @@
+D:\projeler\oyun1\oyun1\oyun1\bin\Debug\oyun1.exe.config
+D:\projeler\oyun1\oyun1\oyun1\bin\Debug\oyun1.exe
+D:\projeler\oyun1\oyun1\oyun1\bin\Debug\oyun1.pdb
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.csprojAssemblyReference.cache
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.Form1.resources
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.Properties.Resources.resources
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.csproj.GenerateResource.cache
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.csproj.CoreCompileInputs.cache
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.exe
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.pdb
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.Form2.resources
+D:\projeler\oyun1\oyun1\oyun1\obj\Debug\oyun1.yardim.resources
